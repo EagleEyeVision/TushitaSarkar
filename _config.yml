@@ -2,10 +2,9 @@
 title: Tushita Sarkar's CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://eagleeyevision.nl/TushitaSarkar
+url: https://eagleeyevision.nl/TushitaSarkar
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -20,11 +19,15 @@ author:
   email: sarkarsecret@gmail.com
   link: https://eagleeyevision.nl/
   weibo:
-  linkedin: ddbullfrog
+  linkedin: https://www.linkedin.com/in/tushita-sarkar-12728619
   twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
+  professionalSummary:
+    - summary1:
+      description: Masters in Management & specialization in International Business and Marketing with around 10 years of experience 
+
   workHistory:
     - work1:
       company: XXX Ltd
