@@ -14,7 +14,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Tushita Sarkar
-  title: Data Analyst
+  title: Project Manager
   address: Breda, Netherlands
   email: sarkarsecret@gmail.com
   link: https://eagleeyevision.nl/
@@ -67,6 +67,6 @@ author:
     - language3:
       name: Hindi
       proficiency: Native
-    - language3:
+    - language4:
       name: Bengali
       proficiency: Native
