@@ -9,10 +9,11 @@ layout: default
             <ul class="timeline">
               {% for summary in site.author.professionalSummary %}
                   <li class="timeline-inverted">
+                    <div class="timeline-badge info"></div>
                     <div class="timeline-panel grid-block">
                       <div class="timeline-body">
-                        {% if work.description %}
-                            <p>{{ work.description }}</p>
+                        {% if summary.description %}
+                            <p>{{ summary.description }}</p>
                         {% endif %}
                       </div>
                     </div>
