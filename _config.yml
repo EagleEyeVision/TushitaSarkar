@@ -24,39 +24,94 @@ author:
 
   professionalSummary:
     - summary1:
-      description: Masters in Management & specialization in International Business and Marketing with around 10 years of experience in the areas of Digital transformation in Retail Banking, Client Service and Operations, Compliance and Security in the Banking and Consultancy Industry. 
-
+      description: Post Graduation in Management & specialization in International Business and marketing with around 10 years of experience in the areas of Digital transformation in Retail Banking, Client Servicing and Operations, Compliance and Security in Banking/Non Banking financial institutions and Consultancy using knowledge and skills with respect to statistics,data science and AI.
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: okay I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: EagleEyevision
+      location: Breda , Netherlands
+      title: Founder
+      started: April 2021
+      duration: (April,2021 - Present)
+      description: Managing compliance risk and complying with bank relevant and EU applicable laws, regulations and standards for customer acquisition and pre-existing clients. Abiding by the guidelines of DNB. Running my own enterprise which deals with AR,AR and AI and software consultancy. Responding to day-to-day compliance related requests from other (Strategic) Business Units, day-to-day compliance monitoring activities and compliance training and education. Digitization and digitalization of file management. Ethical aspects related to privacy/GDPR/FAirness of Data
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IQ_NexusPvt.Ltd.
+      location: Rotterdam, Netherlands
+      title: Compliance Head
+      started: 2018
+      duration: (14/5/2018 to 15/12/2018)
+      description: Working with the lawyers of the company to formulate a data-driven strategic approach for clients pertaining  to compliance and regulation. Performing timely checks and audits for new and existing clients, as per the guidelines from DNB. Keeping the team abreast with the latest developments in the field of sanctions by international organizations like UN and FATF. Abiding by the WFT,WWFT.WTT and the Sanctions law. Performing KYC, Re-KYC ,CDD and EDD for new and existing clients. Using Machine learning tools for transaction monitoring.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
+      company: Tata Consultancy Services
+      location: Pune , India
+      title: Business Process Lead
+      started: 2016
+      duration: (01/2016 to 11/2016)
+      description: Managing a team of associates dealing into compliance and anti-money laundering processes for HSBC. Involved in first and second level investigations of anti-money laundering programmes. Functional knowledge of BMM, CAMP, LexisNexis, Norkom , World Check and other tools and software pertaining to AML investigations. Responsible for compliance and audit of HSBC. Guiding the team through the abridgment of norms in accordance with the Bank secrecy act (BSA). Part of the Deferred Prosecution Agreement of HSBC with TCS. Responsible for monitoring, controlling and appraisal of team for production and quality of investigative research.
+    - work4:
+      company: Development Bank of Singapore
+      location: Pune , India
+      title: Treasures Relationship Manager
+      started: 2015
+      duration: (02/2015 to 12/2015)
+      description: Portfolio and wealth management of High Net Individuals (HNI) known as ‘treasures’. Integrating with dev-ops for Holistic client view(Single screen portfolio).Handling a team to drive the assigned business budgets along with kyc, and client profiling of the given portfolio. Member of the digital marketing and events department of the bank. Supervising brand campaigns and events.Compliance and Security with the norms of SEBI for mutual funds and Portfolio Management Services(PMS).
+    - work5:
+      company: ING Vysya Bank Ltd 
+      location: Pune , India
+      title: Personal Banker – Wealth
+      started: 2014
+      duration: (07/2014 to 2/2015)
+      description: Managing a portfolio of 200 wealth clients with profiling and due diligence. Creating client households encompassing all assets and liabilities of the entire family. Part of ING agile transformation. Cross– Sell of Mutual Funds, LI, GI, REIT, Structures, Lead generation etc. Managing that portfolio of households. Project Lead for re-kyc and compliance in accordance with international norms of ING. Handling audit and compliance for branch operations along with due diligence for the customers.
+    - work6:
+      company: ING Vysya Bank Ltd 
+      location: Pune , India
+      title: Customer Care Manager
+      started: 2014
+      duration: (03/2012 to 07/2014)
+      description: Customer service, branch operations and Cross- Sell to Existing Base of High Profile clients. Foundation of Squads, Tribes and Chapters for operations. Foundation and integration of new software as part of the digital transformation campaign for India. NTB CASA acquisition and deepening of the accounts. Foreign exchange services and Kyc and due diligence of all the parties of the transactions. Audit and compliance. International transactions pertaining to Non Resident Clients. Remittances in the Foreign Exchange services. Handling of compliance tools like Word-Check . Trained in Finacle, Vantage, Profile etc.
+    - work7:
+      company: Axis Bank Ltd. 
+      location: Pune , India
+      title: Business Banking Relationship Manager
+      started: 2011
+      duration: (3/2011 to 3/2012)
+      description: Handling sales & marketing activities and implementing strategies towards enhancing market penetration, business volumes and growth for a wide range of banking products & services. Digitalization of existing client portfolios. High Value NTB CASA acquisition and deepening with cross-selling of all retail products. Compliance and profiling of both New as well as existing Clients to the Bank.  
+      educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
+      organization: Balaji Institute Of International Business. Sri Balaji University
+      location: Pune , India
+      degree: Post Graduate Diploma (Maasters) - International Business
+      major: International Business, Marketing
+      started: 2009
+      duration: (2009 - 2011)
+      Achievements: 1st Class with Distinction. College Topper in final year
+    - education2:
+      organization: University of Pune
+      location: Pune , India
+      degree: Bachelor in Science
+      major: Zoology & Microbiology
+      started: 2006
+      duration: (2006 - 2009)
+      Achievements: 1st Class with Distinction. University Topper
+    - education3:
+      organization: Central Board Secondary education (India)
+      location: Nainital , India
+      degree: Higher Secondary diploma
+      major: English, Hindi, Biology, Physics, Chemistry.
       started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2005 - 2006)
+      Achievements: 1st class with Distinction. District Topper
+    - education4:
+      organization: Central Board Secondary education (India)
+      location: Nainital , India
+      degree: Senior Secondary diploma
+      major: English, Hindi, Mathematics, Social Science, General Science
+      started: 2003
+      duration: (2003 - 2004)
+      Achievements: 1st class with Distinction. State Topper
+
+
+
+
   languages:
     - language1:
       name: English
