@@ -30,7 +30,7 @@ author:
       company: EagleEyevision
       location: Breda , Netherlands
       title: Founder
-      started: April 2021
+      started: 2021
       duration: (April,2021 - Present)
       description: Managing compliance risk and complying with bank relevant and EU applicable laws, regulations and standards for customer acquisition and pre-existing clients. Abiding by the guidelines of DNB. Running my own enterprise which deals with AR,AR and AI and software consultancy. Responding to day-to-day compliance related requests from other (Strategic) Business Units, day-to-day compliance monitoring activities and compliance training and education. Digitization and digitalization of file management. Ethical aspects related to privacy/GDPR/FAirness of Data
     - work2:
@@ -75,6 +75,7 @@ author:
       started: 2011
       duration: (3/2011 to 3/2012)
       description: Handling sales & marketing activities and implementing strategies towards enhancing market penetration, business volumes and growth for a wide range of banking products & services. Digitalization of existing client portfolios. High Value NTB CASA acquisition and deepening with cross-selling of all retail products. Compliance and profiling of both New as well as existing Clients to the Bank.  
+      
       educationHistory:
     - education1:
       organization: Balaji Institute Of International Business. Sri Balaji University
@@ -83,7 +84,7 @@ author:
       major: International Business, Marketing
       started: 2009
       duration: (2009 - 2011)
-      Achievements: 1st Class with Distinction. College Topper in final year
+      description: 1st Class with Distinction. College Topper in final year
     - education2:
       organization: University of Pune
       location: Pune , India
@@ -91,7 +92,7 @@ author:
       major: Zoology & Microbiology
       started: 2006
       duration: (2006 - 2009)
-      Achievements: 1st Class with Distinction. University Topper
+      description: 1st Class with Distinction. University Topper
     - education3:
       organization: Central Board Secondary education (India)
       location: Nainital , India
@@ -99,7 +100,7 @@ author:
       major: English, Hindi, Biology, Physics, Chemistry.
       started: 2005
       duration: (2005 - 2006)
-      Achievements: 1st class with Distinction. District Topper
+      description: 1st class with Distinction. District Topper
     - education4:
       organization: Central Board Secondary education (India)
       location: Nainital , India
@@ -107,7 +108,7 @@ author:
       major: English, Hindi, Mathematics, Social Science, General Science
       started: 2003
       duration: (2003 - 2004)
-      Achievements: 1st class with Distinction. State Topper
+      description: 1st class with Distinction. State Topper
 
 
 
