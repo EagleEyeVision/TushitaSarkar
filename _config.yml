@@ -75,8 +75,7 @@ author:
       started: 2011
       duration: (3/2011 to 3/2012)
       description: Handling sales & marketing activities and implementing strategies towards enhancing market penetration, business volumes and growth for a wide range of banking products & services. Digitalization of existing client portfolios. High Value NTB CASA acquisition and deepening with cross-selling of all retail products. Compliance and profiling of both New as well as existing Clients to the Bank.  
-      
-      educationHistory:
+  educationHistory:
     - education1:
       organization: Balaji Institute Of International Business. Sri Balaji University
       location: Pune , India
@@ -109,10 +108,6 @@ author:
       started: 2003
       duration: (2003 - 2004)
       description: 1st class with Distinction. State Topper
-
-
-
-
   languages:
     - language1:
       name: English
