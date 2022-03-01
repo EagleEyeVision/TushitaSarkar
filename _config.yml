@@ -121,7 +121,7 @@ author:
     - language4:
       name: Bengali
       proficiency: Native
-    programmingSkills:
+  programmingSkills:
     - skill1:
       name: SQL
       percentage: 80%
