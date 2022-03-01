@@ -121,3 +121,19 @@ author:
     - language4:
       name: Bengali
       proficiency: Native
+    programmingSkills:
+    - skill1:
+      name: SQL
+      percentage: 80%
+    - skill2:
+      name: PowerBI
+      percentage: 70%
+    - skill3:
+      name: Tableau
+      percentage: 70%
+    - skill4:
+      name: Microsoft Office
+      percentage: 80%
+    - skill5:
+      name: Python
+      percentage: 20%
